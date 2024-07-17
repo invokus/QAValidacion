@@ -1,0 +1,15 @@
+## Conclusiones
+- El proyecto de pruebas automatizadas de la API de Demoblaze utilizando Karate permitió la validación de la confirmación de usuarios ya existente.
+- Se ha demostrado la capacidad de Karate para interactuar con la API y verificar su comportamiento.
+- El uso de la herramienta POSTMAN permitió una mejor interacción y entendimiendo de las API's de logueo y rehistro.
+
+Además, se han identificado algunas ventajas y oportunidades de mejora:
+
+    Ventajas:
+        La automatización de pruebas ha reducido el tiempo y el esfuerzo necesarios para probar la API manualmente.
+        Se ha mejorado la cobertura de pruebas y la confiabilidad de los resultados.
+        Se ha facilitado la detección de errores y la resolución de problemas.
+    Oportunidades de mejora:
+        Ampliar la cobertura de pruebas para incluir más servicios y funcionalidades de la API.
+        Implementar pruebas de estrés y rendimiento para evaluar la capacidad de la API bajo cargas pesadas.
+        Integrar las pruebas automatizadas con el proceso de desarrollo y entrega continua para asegurar la calidad de la API en cada etapa del ciclo de vida.
